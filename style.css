@@ -1,0 +1,47 @@
+body {
+ background-color: black;
+ text-align: center;
+
+}
+
+li {
+    background-color: #78A48F;
+    list-style-type: none;
+    border-color: #7C7C7D;
+    border-style: solid;
+    height: 100px;
+    width: 100px;
+    color: black;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+
+input, textarea {
+    background-color: black;
+  }
+
+  input {
+    background-color: #A5A5A5;
+    border-color: #7C7C7D;
+    padding: 5px;
+  }
+
+  button {
+      background-color: #7C7C7D;
+      color: #B5B963;
+  }
+
+  .nameinput {
+    padding: 5px;
+  }
+
+  .colorinput {
+    padding: 5px;
+  }
+
+  .foodinput {
+    padding: 5px;
+  }
